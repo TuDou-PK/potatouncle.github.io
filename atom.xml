@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://potatouncle.github.io</id>
     <title>土豆大叔的书屋</title>
-    <updated>2021-04-17T12:39:52.307Z</updated>
+    <updated>2021-04-17T13:32:07.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://potatouncle.github.io"/>
     <link rel="self" href="https://potatouncle.github.io/atom.xml"/>
@@ -10,6 +10,62 @@
     <logo>https://potatouncle.github.io/images/avatar.png</logo>
     <icon>https://potatouncle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 土豆大叔的书屋</rights>
+    <entry>
+        <title type="html"><![CDATA[中国的红色政权为什么能够存在？]]></title>
+        <id>https://potatouncle.github.io/post/zhong-guo-de-hong-se-zheng-quan-wei-shi-me-neng-gou-cun-zai/</id>
+        <link href="https://potatouncle.github.io/post/zhong-guo-de-hong-se-zheng-quan-wei-shi-me-neng-gou-cun-zai/">
+        </link>
+        <updated>2021-04-17T13:05:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>毛主席指出红色政权存在的原因<br>
+以及遭遇的失败的总结和后续的任务</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>毛主席指出红色政权存在的原因<br>
+以及遭遇的失败的总结和后续的任务</p>
+<!-- more -->
+<h1 id="一-国内的政治状况">一、国内的政治状况</h1>
+<p>总体是工农平民以至资产阶级依然在<strong>国民党新军阀</strong>的反革命统治之下。</p>
+<p>同时该节指明了，由于各路军阀是不同帝国主义扶持的，因此只要各国帝国主义分裂中国的状况存在，各派军阀就无论如何不会妥协。且资产阶级民主革命也遭到失败。</p>
+<p>所以，目前只有在无产阶级领导下，才能完成民主革命。</p>
+<h1 id="二-中国红色政权发生和存在的原因">二、中国红色政权发生和存在的原因</h1>
+<ul>
+<li>
+<p>第一，是因为各派军阀割据混战，没有精力处理各地的红色政权。</p>
+</li>
+<li>
+<p>第二，当地都是受过民主革命影响的。</p>
+</li>
+<li>
+<p>第三，小地方民众政权的存在是受全国革命形势发展的。现在全国革命形势在前进，因此各地红色政权不仅不会消失，反而还会壮大。</p>
+</li>
+<li>
+<p>第四，红军是红色政权存在的必要条件。</p>
+</li>
+<li>
+<p>第五，共产党组织的有力量和它的政策的不错误。</p>
+</li>
+</ul>
+<h1 id="三-湘赣边界的割据和八月的失败">三、湘赣边界的割据和八月的失败</h1>
+<p>割据存在是由于在白色政权混战的间隙，采取了稳妥斗争政策。</p>
+<p>失败是由于在白色政权稳定后采取了冒进的政策，没有认清时局变化。</p>
+<p>但后续改正错误，得以挽救过来。</p>
+<h1 id="四-湘赣边界的割据局面在湘鄂赣三省的地位">四、湘赣边界的割据局面在湘鄂赣三省的地位</h1>
+<ul>
+<li>扩大了影响</li>
+<li>使红军在斗争中日益增加其数量和提高其质量</li>
+<li>使地方人才减少依靠红军，能完全独立，进一步提供人才</li>
+</ul>
+<h1 id="五-经济问题">五、经济问题</h1>
+<p>毛主席在这一节指出红军面临缺乏物资和现金的问题，需要每个党员注意该问题</p>
+<h1 id="六-军事根据地问题">六、军事根据地问题</h1>
+<p>毛主席在这一节指出边境军的一个任务，就是大小五井和九陇两个重要军事根据地的巩固。</p>
+<p>具体办法为：</p>
+<ul>
+<li>第一，修建完备的工事</li>
+<li>第二，储备充足的粮食</li>
+<li>第三，建设较好的红军医院</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么要勤俭节约？]]></title>
         <id>https://potatouncle.github.io/post/wei-shi-me-yao-qin-jian-jie-yue/</id>
@@ -171,7 +227,7 @@
 <ul>
 <li>
 <p>地主阶级和买办阶级<br>
-为国际资产阶级的附庸，勾结帝国主义，是真正的<strong>敌人</strong></p>
+为国际资产阶级的附庸，他们的生存和发展是依附帝国主义的（放到今日也适用，看看“欧洲子宫”乌克兰的现状），是真正的<strong>敌人</strong></p>
 </li>
 <li>
 <p>中产阶级<br>
