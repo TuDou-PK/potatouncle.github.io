@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://potatouncle.github.io</id>
     <title>土豆大叔的书屋</title>
-    <updated>2021-04-18T07:09:39.086Z</updated>
+    <updated>2021-04-24T08:38:17.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://potatouncle.github.io"/>
     <link rel="self" href="https://potatouncle.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://potatouncle.github.io/images/avatar.png</logo>
     <icon>https://potatouncle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 土豆大叔的书屋</rights>
+    <entry>
+        <title type="html"><![CDATA[关于纠正党内的错误思想]]></title>
+        <id>https://potatouncle.github.io/post/guan-yu-jiu-zheng-dang-nei-de-cuo-wu-si-xiang/</id>
+        <link href="https://potatouncle.github.io/post/guan-yu-jiu-zheng-dang-nei-de-cuo-wu-si-xiang/">
+        </link>
+        <updated>2021-04-24T07:05:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>毛泽东指出各种错误思想及来源<br>
+并给出了纠正各种错误思想的具体办法</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>毛泽东指出各种错误思想及来源<br>
+并给出了纠正各种错误思想的具体办法</p>
+<!-- more -->
+<p>毛泽东指出了各种错误思想，有些错误思想即使在今日，依然很有市场。</p>
+<p>在此总结一些正确的思想：</p>
+<ul>
+<li>政治领导军事</li>
+<li>红军应协助武装当地群众</li>
+<li>消除雇佣兵单纯打仗思想。应帮助群众建设革命政权</li>
+<li>消除极端民主化思想</li>
+<li>少数服从多数</li>
+<li>抛弃绝对平均主义，各尽所能按劳取酬</li>
+<li>抛弃主观主义，要多调查</li>
+<li>纠正个人主义</li>
+<li>抛弃流寇思想</li>
+<li>消除盲动主义</li>
+</ul>
+<p>具体的一些解决方法，核心主要是<strong>加强思想教育</strong>。其余措施大体如下：</p>
+<ul>
+<li>提高党内政治水平，党的领导机关要有正确的指导路线，上级要了解下级情况</li>
+<li>加紧官兵政治训练，同时争取有斗争经验的积极分子加入红军以改善其成分</li>
+<li>发动地方党和群众政权机关对红军的批评，以影响红军</li>
+<li>一切军事工作由党内讨论决议后再由群众实行（开活动分子会快速传达），下级和群众对上级的指示要经过详细讨论，以求彻底了解其意义，并决定对他的执行方法</li>
+<li>编制红军法规，处理问题、分配工作等要得当，并设法提高红军物质生活</li>
+</ul>
+<p>上述措施，核心是在思想上加强教育，然后制定制度辅助（协助纠正）思想教育，有了制度后要贯彻落实。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[井冈山的斗争]]></title>
         <id>https://potatouncle.github.io/post/jing-gang-shan-de-dou-zheng/</id>
